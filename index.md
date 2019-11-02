@@ -8,8 +8,7 @@
 
 <body>
     <header>
-
-        <img src="img/banner.jpg"  alt="header">
+        <img src="img/banner.jpg">
     </header>
     <nav>
                 <ul class="menu">
