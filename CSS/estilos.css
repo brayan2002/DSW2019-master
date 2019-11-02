@@ -1,0 +1,46 @@
+nav, .contenedor, footer,article, header, .principal, aside{
+    max-width: 93%;
+    margin: auto;
+    text-align: center;
+    border-radius: 0.6em
+}
+
+nav{
+    background-color: rgb(253, 199, 49);
+  	font-size: 33px;
+	
+}
+.contenedor{
+    background-color: rgb(117, 252, 128);
+}
+footer{
+    background-color: brown;
+}
+article{
+    background-color: silver;
+}
+header{
+    
+    background-color: silver;
+    padding: 0.9em 1em;
+}
+.principal{
+    background-color: #fff;
+    display: inline-block;
+    width: 65%;
+    vertical-align: top;
+}
+aside{
+    background-color: silver;
+    display: inline-block;
+    width: 28%;
+}
+
+/* menu */
+.menu li{
+    display: inline-block;
+    color: beige;
+    padding: 0.9em 1em;
+    text-align: center ;
+    text-decoration:none ;
+}
