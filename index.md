@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="ES">
-
 <head>
     <meta charset="UTF-8">
     <title> Ovi Web</title>
